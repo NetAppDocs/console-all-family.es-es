@@ -11,5 +11,5 @@ settings:
   langs: es-es,us-en,de-de,fr-fr,it-it,pt-br,ja-jp,ko-kr,zh-cn,zh-tw
 sidebar:
   entries:
-  - title: NetApp Console y NetApp Console implementación local
+  - title: Conoce el despliegue local de NetApp Console
     url: "/index.html"

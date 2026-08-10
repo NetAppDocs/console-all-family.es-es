@@ -19,7 +19,7 @@ product-family:
     tags: console-local
   tiles:
   - title: Conoce NetApp Console y la implementación local de NetApp Console
-    url: "/intro-family.html"
+    url: intro-family.html
     summary: Compara la implementación local de NetApp Console con NetApp Console.
     tags: all, console, console-local
   - title: NetApp Console
