@@ -1,0 +1,15 @@
+---
+settings:
+  name: NetApp Console and NetApp Console local deployment
+  search: console-setup-admin, console-local
+  internal:
+    pdf_enabled: false
+  prod:
+    pdf_enabled: false
+    harmony_enabled: false
+    lipi_enabled: false
+  langs: es-es,us-en,de-de,fr-fr,it-it,pt-br,ja-jp,ko-kr,zh-cn,zh-tw
+sidebar:
+  entries:
+  - title: NetApp Console y NetApp Console implementación local
+    url: "/index.html"

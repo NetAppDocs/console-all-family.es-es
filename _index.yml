@@ -1,0 +1,35 @@
+---
+product-family:
+  title: NetApp Console y NetApp Console implementación local
+  lead: NetApp ofrece dos formas de ejecutar su plataforma de gestión unificada de
+    almacenamiento con NetApp Console y NetApp Console local deployment. Ambas comparten
+    una base común, pero difieren en arquitectura, conectividad, alcance de funciones
+    y modelo operativo.
+  summary: 'NetApp ofrece dos formas de ejecutar su plataforma unificada de gestión
+    de almacenamiento: NetApp Console y NetApp Console local deployment. Ambas comparten
+    una base común, pero difieren en arquitectura, conectividad, alcance de las funciones
+    y modelo operativo.'
+  sidebarlinks:
+  - title: Todo
+    tags: all
+    class: active
+  - title: NetApp Console
+    tags: console
+  - title: NetApp Console implementación local
+    tags: console-local
+  tiles:
+  - title: Conoce NetApp Console y la implementación local de NetApp Console
+    url: "/intro-family.html"
+    summary: Compara la implementación local de NetApp Console con NetApp Console.
+    tags: all, console, console-local
+  - title: NetApp Console
+    url: "../console-family/index.html"
+    summary: Descubre cómo NetApp Console te ayuda a gestionar tu entorno de almacenamiento
+      en la nube híbrida.
+    tags: console, all
+  - title: NetApp Console implementación local
+    url: "../console-local-family/index.html"
+    summary: Descubre cómo la implementación local de NetApp Console ofrece a los
+      equipos una gestión inteligente de la flota en entornos locales desde un único
+      plano de control seguro.
+    tags: console-local, all
