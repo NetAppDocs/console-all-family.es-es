@@ -29,7 +29,6 @@
   <block id="69c0257b1ba8a3ba7687d4f7a9883d7f" category="list-text">Configura los canales de notificación por correo electrónico y webhooks para que las alertas lleguen a los equipos adecuados cuando cambien las condiciones de almacenamiento. Los webhooks se integran con tus herramientas actuales de supervisión y gestión de incidencias.</block>
   <block id="00c24ecc0e9a6f1c6a5202f40e8c96c1" category="paragraph">La implementación local de la consola es compatible con clústeres ONTAP locales y con NetApp Backup and Recovery. Se integra con Active Directory para la autenticación federada y admite la autenticación multifactor para los usuarios locales.</block>
   <block id="be6ca74d1ea996c7c4fe59d3f22d39a4" category="paragraph">La implementación local de la consola es la opción más adecuada para organizaciones con grandes entornos ONTAP locales que requieren un aprovisionamiento condicionado por políticas, comprobaciones de cumplimiento automatizadas y soberanía de datos.</block>
-  <block id="70b86d6aa7fb00fd1d760b33b8607159" category="inline-link-macro">Infórmate sobre la implementación local de NetApp Console^.</block>
   <block id="0161e3d40bdbea6ca6998c8c60165b33" category="section-title">Comparativa de características</block>
   <block id="bfd15aa26ba0ced782240c4a8b7e517e" category="section-title">Gestión del almacenamiento</block>
   <block id="21021ea0e52be8e9c599f4dff41e5be0" category="cell">Característica</block>
@@ -79,6 +78,7 @@
   <block id="5a019da3367b24bc2b788313b9b9707e" category="sidebar">Descubre cómo NetApp Console te ayuda a gestionar tu entorno de almacenamiento en la nube híbrida.</block>
   <block id="7fcb017442ae9c2cb27559e9f3b952a7" category="sidebar">Descubre cómo la implementación local de NetApp Console ofrece a los equipos una gestión inteligente de la flota en entornos locales desde un único plano de control seguro.</block>
   <block id="5ceffe99385ecce35b5a538a16ca57cb" category="paragraph"><block ref="dc7c11e9da585b9fa1e35ca44da95ccc" category="inline-link-rx"></block>.</block>
-  <block id="f64bf1d04df251b82d06554b478f9ae4" category="paragraph"><block ref="f64bf1d04df251b82d06554b478f9ae4" category="inline-link-macro-rx"></block></block>
   <block id="e8823bef19fa13439f3ec13fdb71c5bb" category="sidebar">Conoce el despliegue local de NetApp Console</block>
+  <block id="52ae244e9f2a39b24f6e7062c06f1548" category="inline-link-macro">Más información sobre la implementación local de NetApp Console.</block>
+  <block id="a8f4a115cb2472a4344e18b6a59c28a7" category="paragraph"><block ref="a8f4a115cb2472a4344e18b6a59c28a7" category="inline-link-macro-rx"></block></block>
 </blocks>
